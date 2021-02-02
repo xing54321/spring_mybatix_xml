@@ -1,9 +1,9 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : www.lbing.top
+Source Server         : localhost
 Source Server Version : 50729
-Source Host           : www.lbing.top:3306
+Source Host           : localhost:3306
 Source Database       : mybatis
 
 Target Server Type    : MYSQL
